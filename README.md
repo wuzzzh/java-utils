@@ -5,6 +5,6 @@
 封装Mybatis Plus CRUD操作<br/>
 限制：<br/>
 - MP 3.5.0及以上版本
-- 需要注册Mapper到Spring容器
-特点：<br/>
+- 需要注册Mapper到Spring容器<br/>
+特点：
 - 纯静态工具类，摆脱 IService 和 ServiceImpl
