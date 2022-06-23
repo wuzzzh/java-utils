@@ -7,5 +7,5 @@
 - MP 3.5.0及以上版本
 - 需要注册Mapper到Spring容器
 <br/>
-特点：
+特点：<br/>
 - 纯静态工具类，摆脱 IService 和 ServiceImpl
